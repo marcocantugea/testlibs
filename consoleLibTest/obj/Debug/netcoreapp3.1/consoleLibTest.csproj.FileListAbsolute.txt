@@ -1,0 +1,16 @@
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\consoleLibTest.exe
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\consoleLibTest.deps.json
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\consoleLibTest.runtimeconfig.json
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\consoleLibTest.runtimeconfig.dev.json
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\consoleLibTest.dll
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\consoleLibTest.pdb
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\CURActionsLib.dll
+D:\dotnetprojects\testlibs\consoleLibTest\bin\Debug\netcoreapp3.1\CURActionsLib.pdb
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.csprojAssemblyReference.cache
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.AssemblyInfoInputs.cache
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.AssemblyInfo.cs
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.csproj.CoreCompileInputs.cache
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.csproj.CopyComplete
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.dll
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.pdb
+D:\dotnetprojects\testlibs\consoleLibTest\obj\Debug\netcoreapp3.1\consoleLibTest.genruntimeconfig.cache

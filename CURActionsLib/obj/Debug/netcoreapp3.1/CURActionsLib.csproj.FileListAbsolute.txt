@@ -1,0 +1,9 @@
+D:\dotnetprojects\testlibs\CURActionsLib\bin\Debug\netcoreapp3.1\CURActionsLib.deps.json
+D:\dotnetprojects\testlibs\CURActionsLib\bin\Debug\netcoreapp3.1\CURActionsLib.dll
+D:\dotnetprojects\testlibs\CURActionsLib\bin\Debug\netcoreapp3.1\CURActionsLib.pdb
+D:\dotnetprojects\testlibs\CURActionsLib\obj\Debug\netcoreapp3.1\CURActionsLib.csprojAssemblyReference.cache
+D:\dotnetprojects\testlibs\CURActionsLib\obj\Debug\netcoreapp3.1\CURActionsLib.AssemblyInfoInputs.cache
+D:\dotnetprojects\testlibs\CURActionsLib\obj\Debug\netcoreapp3.1\CURActionsLib.AssemblyInfo.cs
+D:\dotnetprojects\testlibs\CURActionsLib\obj\Debug\netcoreapp3.1\CURActionsLib.csproj.CoreCompileInputs.cache
+D:\dotnetprojects\testlibs\CURActionsLib\obj\Debug\netcoreapp3.1\CURActionsLib.dll
+D:\dotnetprojects\testlibs\CURActionsLib\obj\Debug\netcoreapp3.1\CURActionsLib.pdb
